@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Classwork.csproj",
+  "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Classwork.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,82 +14392,82 @@
   "RootNamespace": "Classwork",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Book\\DeleteConf.cshtml",
-      "TargetPath": "Views\\Book\\DeleteConf.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Book\\_book.cshtml",
-      "TargetPath": "Views\\Book\\_book.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Book\\_form.cshtml",
-      "TargetPath": "Views\\Book\\_form.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Book\\CreateForm.cshtml",
-      "TargetPath": "Views\\Book\\CreateForm.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Book\\BookDetails.cshtml",
-      "TargetPath": "Views\\Book\\BookDetails.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Book\\UpdateForm.cshtml",
-      "TargetPath": "Views\\Book\\UpdateForm.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Book\\Index.cshtml",
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Book\\Index.cshtml",
       "TargetPath": "Views\\Book\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Book\\_book.cshtml",
+      "TargetPath": "Views\\Book\\_book.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Book\\UpdateForm.cshtml",
+      "TargetPath": "Views\\Book\\UpdateForm.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Book\\_form.cshtml",
+      "TargetPath": "Views\\Book\\_form.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Shared\\_LoginPartial.cshtml",
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Book\\CreateForm.cshtml",
+      "TargetPath": "Views\\Book\\CreateForm.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Book\\DeleteConf.cshtml",
+      "TargetPath": "Views\\Book\\DeleteConf.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200915\\200915-auth-crud-cw-autumn-ragland\\Classwork\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Book\\BookDetails.cshtml",
+      "TargetPath": "Views\\Book\\BookDetails.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\auth-crud-deploy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
