@@ -2,7 +2,7 @@
 
 @model Classwork.Data.ApplicationDbContext
 
-<h1>Library Database</h1>
+<h1>Library Books</h1>
 @foreach (BookModel item in @Model.books)
 {
     <partial name = "_book" model = "@item"/>
